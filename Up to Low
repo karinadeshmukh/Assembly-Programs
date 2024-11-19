@@ -1,5 +1,5 @@
 section .data
-    s1 db 'KUSHDASTANE'       ; Uppercase string to be converted
+    s1 db 'KARINA'       ; Uppercase string to be converted
     len equ $ - s1            ; Length of s1
 
 section .bss

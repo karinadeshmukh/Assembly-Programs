@@ -1,5 +1,5 @@
 section .data
-    msg db "kushdastane", 0
+    msg db "karina", 0
     len equ $-msg
 
 section .bss

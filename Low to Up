@@ -1,5 +1,5 @@
 section .data
-    string db "kushdastane", 10   ; String to be converted to uppercase, 10h is the newline character
+    string db "Karina", 10   ; String to be converted to uppercase, 10h is the newline character
     len equ $ - string            ; Length of the string
 
 section .text
